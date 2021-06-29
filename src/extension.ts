@@ -11,7 +11,7 @@ export function activate(context: vscode.ExtensionContext) {
 						.trim()
 						.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')
 						.replace(/\W+/g, '\\W+'),
-				});
+				})
 		}
 	}))
 }
