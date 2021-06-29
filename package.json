@@ -1,5 +1,7 @@
 {
   "name": "search-ignore-whitespace",
+  "publisher": "jakearl",
+  "repository": {"url": "https://github.com/JacksonKearl/search-ignore-whitespace.git"},
   "displayName": "Search Ignore Whitespace",
   "description": "Search for code blocks ignoring all whitespace differences",
   "version": "0.0.1",
